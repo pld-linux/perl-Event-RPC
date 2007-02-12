@@ -6,7 +6,7 @@
 %define		pdir	Event
 %define		pnam	Event-RPC
 Summary:	Event::RPC - Event based transparent Client/Server RPC framework
-Summary(pl):	Event::RPC - oparty na zdarzeniach szkielet przezroczystego klienta/serwera RPC
+Summary(pl.UTF-8):   Event::RPC - oparty na zdarzeniach szkielet przezroczystego klienta/serwera RPC
 Name:		perl-Event-RPC
 Version:	0.90
 Release:	1
@@ -25,7 +25,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Event based transparent Client/Server RPC framework.
 
-%description -l pl
+%description -l pl.UTF-8
 Oparty na zdarzeniach szkielet przezroczystego klienta/serwera RPC.
 
 %prep
