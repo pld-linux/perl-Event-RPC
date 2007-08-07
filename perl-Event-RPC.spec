@@ -9,7 +9,7 @@ Summary:	Event::RPC - Event based transparent Client/Server RPC framework
 Summary(pl.UTF-8):	Event::RPC - oparty na zdarzeniach szkielet przezroczystego klienta/serwera RPC
 Name:		perl-Event-RPC
 Version:	0.90
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
