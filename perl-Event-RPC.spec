@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Event
 %define		pnam	Event-RPC
 Summary:	Event::RPC - Event based transparent Client/Server RPC framework
